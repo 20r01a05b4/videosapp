@@ -1,0 +1,18 @@
+.navbar_container{
+    width:100%;
+    background-color:rgb(32,32,32);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:white;
+}
+
+.navbar_container p{
+    color:whitesmoke;
+    font-size: 22px;
+}
+
+.navbar_container p:hover{
+    transform: scale(1.3,1.3);
+    
+}
